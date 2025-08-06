@@ -1,0 +1,6 @@
+Date,	Time,	Payment type,	Amount
+3/24/16	6:34	Cash		44.87
+5/13/16	5:02	Visa		78.67
+9/24/16	9:44	Mastercard	87.37
+3/13/17	8:55	Mastercard	23.69
+7/29/19	4:36	Cash		73.64
